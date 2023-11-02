@@ -1,12 +1,12 @@
-site_name: BIOSCI701 NeSI Setup & Jupyter Login
-site_author: Dinindu Senanayake
+site_name: Matai NeSI Setup & Jupyter Login
+site_author: Vicky Fan
 site_dir: public
 site_url: "https://dinindusenanayake.github.io/BIOSCI701-NeSI_Jupyter_Login/"
 
 #Repository information
 
-repo_name: DininduSenanayake/BIOSCI701-NeSI_Jupyter_Login 
-repo_url: https://github.com/DininduSenanayake/BIOSCI701-NeSI_Jupyter_Login
+repo_name: AgentKumara/Matai-NeSI_Jupyter_Login
+repo_url: https://github.com/AgentKumara/Matai-NeSI_Jupyter_Login
 
 
 theme:
