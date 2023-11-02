@@ -7,7 +7,7 @@
      2. <p>Enter NeSI username, HPC password and 6 digit second factor token </p><br>![image](images/jupyter_login_labels_updated.png){width="720"}</br>
      3. <p>Choose server options as below</p>
      
-          >>* make sure to choose the correct project code `uoa03265`, number of CPUs `CPUs=2`, memory `4 GB` prior to pressing ![image](images/start_button.png){width="50"} button.
+          >>* make sure to choose the correct project code `uoa03979`, number of CPUs `CPUs=2`, memory `4 GB` prior to pressing ![image](images/start_button.png){width="50"} button.
           
           <br>![image](images/2023_serveroptions.png)</br>
 
