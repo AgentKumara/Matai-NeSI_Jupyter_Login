@@ -9,7 +9,7 @@ Login and troubleshooting instructions for NeSI Jupyter Services.
 3. <p>Choose server options as below OR as required for the session
 >Project code should be **uoa03979** (select from drop down list), Number of CPUs and memory size will remain unchanged. However, select the approriate **Wall time** based on the projected length of a session
 
-<p align="center"><br><img src="/img/2022_server_options.png" alt="drawing" width="700"/></p></p>
+<p align="center"><br><img src="/img/2023_serveroptions.png" alt="drawing" width="700"/></p></p>
 
 4. <p>JupyterHub home (Launcher) page
 
