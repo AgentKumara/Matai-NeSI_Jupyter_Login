@@ -19,12 +19,12 @@ Directories are like places — at any time while we are using the shell, we are
     * **`/nesi/project/projectcode`** is for persistent project-related data, project-related software, etc
     * **`/nesi/nobackup/projectode`** is a 'scratch space', for data you don't need to keep long term. Old data is periodically deleted from nobackup
 
-    **`projectode`** for this event is `uoa03265`. If you are to open a NeSI project for your own research, it will have a unique project code with a prefix to represent your affiliated institute and a five digit number (randomly generated). 
+    **`projectode`** for this event is `uoa03979`. If you are to open a NeSI project for your own research, it will have a unique project code with a prefix to represent your affiliated institute and a five digit number (randomly generated). 
 
     >Therefore, full path to persistent and nobackup/scratch file systems will be in the format of 
 
-    * **`/nesi/project/uoa03265`**
-    * **`/nesi/nobackup/uoa03265`**
+    * **`/nesi/project/uoa03979`**
+    * **`/nesi/nobackup/uoa03979`**
 
 
 
