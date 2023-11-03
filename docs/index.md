@@ -1,4 +1,4 @@
-# BIOSCI701 : NeSI Setup
+# Matai : NeSI Setup
 
 ??? jupyter "S.1.1 : NeSI Mahuika Jupyter login"
 
