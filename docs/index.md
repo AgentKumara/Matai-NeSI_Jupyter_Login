@@ -8,9 +8,9 @@
      3. <p>Choose server options as below</p>
      
           >>* make sure to choose the correct project code `uoa03979`, number of CPUs `CPUs=4`, memory `16 GB` prior to pressing ![image](images/start_button.png){width="50"} button.
-          
+          :warning: **Please do not save your password as the 2nd factor authentication constantly changes
           <br>![image](images/2023_serveroptions.png)</br>
-          > :warning: **Please do not save your password as the 2nd factor authentication constantly changes
+          :warning: **Please do not save your password as the 2nd factor authentication constantly changes
 
      4. <p>Once logged in, click the **Terminal** tile/icon to make sure a terminal session can be launched without any issues
 
